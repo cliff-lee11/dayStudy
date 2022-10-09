@@ -1,0 +1,2 @@
+1. Java 동적프록시 방식
+   => com.sun.proxy.$ProxyXX
