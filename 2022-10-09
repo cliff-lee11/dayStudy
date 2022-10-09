@@ -1,2 +1,9 @@
 1. Java 동적프록시 방식
    => com.sun.proxy.$ProxyXX
+
+
+2. JPA 하이버네이트 쿼리 실행 순서
+   - getOne, findbyId 차이
+   - 메모리에 객체를 올렷서 관리하는 이유와, 동작 방식
+
+   
